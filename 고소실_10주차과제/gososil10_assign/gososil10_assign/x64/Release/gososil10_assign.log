@@ -1,0 +1,15 @@
+﻿  gososil_10_과제.cpp
+C:\Users\GRDN\source\repos\고소실_10주차_과제_배포용\gososil10_assign\gososil_10_과제.cpp(38,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\GRDN\source\repos\고소실_10주차_과제_배포용\gososil10_assign\gososil_10_과제.cpp(126,23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\GRDN\source\repos\고소실_10주차_과제_배포용\gososil10_assign\gososil_10_과제.cpp(136,23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\GRDN\source\repos\고소실_10주차_과제_배포용\gososil10_assign\gososil_10_과제.cpp(165,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\GRDN\source\repos\고소실_10주차_과제_배포용\gososil10_assign\gososil_10_과제.cpp(68,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\GRDN\source\repos\고소실_10주차_과제_배포용\gososil10_assign\gososil_10_과제.cpp(299,28): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\GRDN\source\repos\고소실_10주차_과제_배포용\gososil10_assign\gososil_10_과제.cpp(337,50): warning C4307: '*': 부호 있는 정수 계열 상수 오버플로입니다.
+C:\Users\GRDN\source\repos\고소실_10주차_과제_배포용\gososil10_assign\gososil_10_과제.cpp(358,43): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\GRDN\source\repos\고소실_10주차_과제_배포용\gososil10_assign\gososil_10_과제.cpp(359,43): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  gososil10_assign.vcxproj -> C:\Users\GRDN\source\repos\고소실_10주차_과제_배포용\x64\Release\gososil10_assign.exe
